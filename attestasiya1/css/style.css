@@ -1,0 +1,38 @@
+body{
+    height: 100vh;
+}
+
+li{
+    font-size: 30px;
+    color: white; 
+    list-style-type: none;
+    gap: 20px;
+}
+header{
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+ul#second li {
+    display:inline;
+    
+  }
+.welcome{
+   font-size: 60px;
+   color: white;
+   margin-top: 300px;
+   text-align: center;
+  }
+h1{
+    padding-top: 0px;
+    color: white;
+}
+.sec{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.secc{
+    padding-top: -10px;
+}
